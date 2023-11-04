@@ -85,6 +85,7 @@ export default function App() {
               }}
             />
           </Stack.Navigator>
+          <Text> aaa </Text>
         </NavigationContainer>
       </ExpensesContextProvider>
     </>
